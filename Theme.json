@@ -21,10 +21,10 @@
       "#612d19"
       ],
       "BACKGROUND_MODIFIER_ACCENT": [
-      "#FFDD33"   // Yellow accent
+      "#FFDD33"   
       ],
       "BACKGROUND_MODIFIER_ACTIVE": [
-      "#FF0000"   // Red accent
+      "#FF0000"   
       ],
       "BACKGROUND_MODIFIER_HOVER": [
       "#612d19"
@@ -42,16 +42,16 @@
       "#612d19"
       ],
       "BACKGROUND_TERTIARY": [
-      "#FFDD33"   // Yellow accent
+      "#FFDD33"   
       ],
       "BORDER_FAINT": [
-      "#FF0000"   // Red accent
+      "#FF0000"   
       ],
       "BORDER_STRONG": [
       "#FF0000"
       ],      
       "BORDER_SUBTLE": [
-      "#FFDD33"   // Yellow accent
+      "#FFDD33"  
       ],
       "CHANNEL_ICON": [
       "#612d19"
@@ -72,7 +72,7 @@
       "#612d19"
       ],
       "INTERACTIVE_ACTIVE": [
-      "#FFDD33"   // Yellow
+      "#FFDD33"   
       ],
       "INTERACTIVE_HOVER": [
       "#FFFFFF"
@@ -102,7 +102,7 @@
       "#FFFFFF"
       ],
       "TEXT_SECONDARY": [
-      "#FFDD33"   // Yellow
+      "#FFDD33"   
       ],
       "CARD_PRIMARY_BG": [
       "#000000"
