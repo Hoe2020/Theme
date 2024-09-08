@@ -21,10 +21,10 @@
       "#000000"
       ],
       "BACKGROUND_MODIFIER_ACCENT": [
-      "#B22222"
+      "#8B8B8B"
       ],
       "BACKGROUND_MODIFIER_ACTIVE": [
-      "#B22222"
+      "#8B8B8B"
       ],
       "BACKGROUND_MODIFIER_HOVER": [
       "#612d19"
@@ -42,16 +42,16 @@
       "#612d19"
       ],
       "BACKGROUND_TERTIARY": [
-      "#B22222"
+      "#8B8B8B"
       ],
       "BORDER_FAINT": [
-      "#612d19"
+      "#8B8B8B"
       ],
       "BORDER_STRONG": [
-      "#B22222"
+      "#8B8B8B"
       ],      
       "BORDER_SUBTLE": [
-      "#612d19"
+      "#8B8B8B"
       ],
       "CHANNEL_ICON": [
       "#612d19"
@@ -66,13 +66,13 @@
       "#CCCCCC"
       ],
       "HEADER_SECONDARY": [
-      "#B22222"
+      "#8B8B8B"
       ],
       "HOME_BACKGROUND": [
       "#612d19"
       ],
       "INTERACTIVE_ACTIVE": [
-      "#B22222"
+      "#8B8B8B"
       ],
       "INTERACTIVE_HOVER": [
       "#FFFFFF"
@@ -90,19 +90,19 @@
       "#000000"
       ],
       "TEXT_DANGER": [
-      "#B22222"
+      "#8B8B8B"
       ],
       "TEXT_LINK": [
-      "#FFDD33"
+      "#8B8B8B"
       ],
       "TEXT_MUTED": [
-      "#B22222"
+      "#8B8B8B"
       ],
       "TEXT_NORMAL": [
       "#CCCCCC"
       ],
       "TEXT_SECONDARY": [
-      "#FFDD33"
+      "#CCCCCC"
       ],
       "CARD_PRIMARY_BG": [
       "#000000"
@@ -112,9 +112,9 @@
       ]
     },
     "rawColors": {
-      "BRAND_260": "#FFDD33",
-      "BRAND_360": "#B22222",
-      "BRAND_500": "#FFDD33",
+      "BRAND_260": "#8B8B8B",
+      "BRAND_360": "#8B8B8B",
+      "BRAND_500": "#8B8B8B",
       "GREEN_100": "#CCCCCC",
       "WHITE_500": "#FFFFFF",
       "PLUM_13": "#000000",
