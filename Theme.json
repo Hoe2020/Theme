@@ -9,7 +9,7 @@
     ],
     "semanticColors": {
       "BACKGROUND_ACCENT": [
-      "#3e2b22"
+      "#4c271a"
       ],
       "BACKGROUND_MESSAGE_HOVER": [
       "#000000"
@@ -18,16 +18,16 @@
       "#000000"
       ],
       "BACKGROUND_MOBILE_SECONDARY": [
-      "#3e2b22"
+      "#4c271a"
       ],
       "BACKGROUND_MODIFIER_ACCENT": [
-      "#5a4537"
+      "#5a3a2a"
       ],
       "BACKGROUND_MODIFIER_ACTIVE": [
-      "#5a4537"
+      "#5a3a2a"   
       ],
       "BACKGROUND_MODIFIER_HOVER": [
-      "#3e2b22"
+      "#4c271a"
       ],
       "BACKGROUND_MODIFIER_SELECTED": [
       "#000000"
@@ -36,25 +36,25 @@
       "#000000"
       ],
       "BACKGROUND_SECONDARY": [
-      "#3e2b22"
+      "#4c271a"
       ],
       "BACKGROUND_SECONDARY_ALT": [
-      "#3e2b22"
+      "#4c271a"
       ],
       "BACKGROUND_TERTIARY": [
-      "#5a4537"
+      "#5a3a2a"
       ],
       "BORDER_FAINT": [
-      "#5a4537"
+      "#5a3a2a"
       ],
       "BORDER_STRONG": [
-      "#5a4537"
+      "#5a3a2a"
       ],      
       "BORDER_SUBTLE": [
-      "#5a4537"
+      "#5a3a2a"
       ],
       "CHANNEL_ICON": [
-      "#3e2b22"
+      "#4c271a"
       ],
       "CHANNELS_DEFAULT": [
       "#FFFFFF"
@@ -66,19 +66,19 @@
       "#CCCCCC"
       ],
       "HEADER_SECONDARY": [
-      "#5a4537"
+      "#5a3a2a"
       ],
       "HOME_BACKGROUND": [
-      "#3e2b22"
+      "#4c271a"
       ],
       "INTERACTIVE_ACTIVE": [
-      "#5a4537"
+      "#5a3a2a"
       ],
       "INTERACTIVE_HOVER": [
       "#FFFFFF"
       ],
       "INTERACTIVE_MUTED": [
-      "#3e2b22"
+      "#4c271a"
       ],
       "INTERACTIVE_NORMAL": [
       "#CCCCCC"
@@ -90,13 +90,13 @@
       "#000000"
       ],
       "TEXT_DANGER": [
-      "#5a4537"
+      "#5a3a2a"
       ],
       "TEXT_LINK": [
-      "#5a4537"
+      "#0000EE"
       ],
       "TEXT_MUTED": [
-      "#5a4537"
+      "#5a3a2a"
       ],
       "TEXT_NORMAL": [
       "#CCCCCC"
@@ -108,17 +108,29 @@
       "#000000"
       ],
       "CARD_SECONDARY_BG": [
-      "#3e2b22"
+      "#4c271a"
       ]
     },
     "rawColors": {
-      "BRAND_260": "#5a4537",
-      "BRAND_360": "#5a4537",
-      "BRAND_500": "#5a4537",
+      "BRAND_260": "#5a3a2a",
+      "BRAND_360": "#5a3a2a",
+      "BRAND_500": "#5a3a2a",
       "GREEN_100": "#CCCCCC",
       "WHITE_500": "#FFFFFF",
       "PLUM_13": "#000000",
-      "PLUM_15": "#3e2b22",
+      "PLUM_15": "#4c271a",
       "PLUM_16": "#000000",
-      "PLUM_17": "#3e2b22",
-      "PLUM_18":
+      "PLUM_17": "#4c271a",
+      "PLUM_18": "#4c271a",
+      "PLUM_19": "#000000",
+      "PLUM_20": "#000000",
+      "PLUM_22": "#000000",
+      "PLUM_23": "#4c271a"
+    },
+    "background": {
+        "blur": 0.1,
+        "url": "https://raw.githubusercontent.com/olobia/themes/main/image%20(2).png",
+        "alpha": 1.0
+    },
+    "spec": 2
+}
